@@ -1,1 +1,1 @@
-# 一个vue+uni+nestjs开发的CRM应用
+# 一个vue+uni+nestjs开发的SAAS类型的CRM项目
